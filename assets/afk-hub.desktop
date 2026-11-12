@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=AFK Game Hub & TinyTask
+Comment=All-in-One Optimized AFK Launcher with Macro Automation
+Exec=/home/shikideh/.local/bin/afk-hub
+Icon=applications-games
+Terminal=false
+Type=Application
+Categories=Game;Utility;
