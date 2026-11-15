@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=AFK Game Hub & TinyTask
-Comment=All-in-One Optimized AFK Launcher with Macro Automation
+Name=AFK Game Studio
+Comment=Integrated Automation and Optimization Sandbox for Linux Gaming
 Exec=/home/shikideh/.local/bin/afk-hub
 Icon=applications-games
 Terminal=false
